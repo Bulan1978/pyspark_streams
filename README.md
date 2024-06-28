@@ -3,7 +3,7 @@ Simulation of streams data ingestion using pyspark.
 
 I found this video in youtube and recreated to learn streams usage with pyspark. The spark, pyspark and java installations were done in the Google Colab drive, which eliminated any requirement of local workstation installation.
 
-The source project which I referred is [https://github.com/samarth0174/Build-machine-learning-pipelines-pyspark](https://www.youtube.com/watch?v=RLfTxtgeVhM).
+The source project which I referred is https://www.youtube.com/watch?v=RLfTxtgeVhM&list=LL
 
 - Challenges faced :
 
